@@ -1,7 +1,8 @@
 name: simple-cprov2
 version: 1.0
 summary: This is a test snap
-description: This is a test snap ...
+description: |
+  This is a test snap ...
 confinement: strict
 grade: stable
 
