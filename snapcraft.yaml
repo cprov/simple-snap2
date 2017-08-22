@@ -2,7 +2,7 @@ name: simple-cprov2
 version: 1.0
 summary: This is a test snap
 description: |
-  This is an almost useless snap, apart from testing
+  This is an almost useless snap, apart from testing ...
 confinement: strict
 grade: stable
 
